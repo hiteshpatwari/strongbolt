@@ -2,7 +2,7 @@
 
 RBAC framework for model-level authorization gem with very granular control on permissions, using Capabilities, Roles and UserGroups.
 
-Checkout our [minimal example app](https://github.com/AnalyticsMediaGroup/strongbolt_example) to try it out without the need to set it up yourself.
+Checkout our [minimal example app](https://github.com/hiteshpatwari/strongbolt_example) to try it out without the need to set it up yourself.
 
 Only works with Rails 4.
 
